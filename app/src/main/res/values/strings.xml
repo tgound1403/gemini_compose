@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Test 3</string>
+    <string name="action_go">Start analyzing</string>
+    <string name="app_title">Analyze with Gemini</string>
+    <string name="field_label">Input</string>
+    <string name="results_placeholder">(Results will appear here)</string>
+</resources>
